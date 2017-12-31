@@ -1,4 +1,4 @@
-# BlazeKart (Hackathon Project Title)
+# BlazeKart / EasyShop
 To reduce the billing queues in big grocery Stores &amp; Malls
 
 # Problem Staement
