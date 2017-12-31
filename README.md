@@ -1,4 +1,4 @@
-# BlazeKart / EasyShop
+# BlazeKart ( aka EasyShop)
 To reduce the billing queues in big grocery Stores &amp; Malls
 
 # Problem Staement
@@ -13,5 +13,6 @@ This is an Android App through which a user can scan whatever product he likes a
 # Software tools used
 Android Studio, Emulator, Android Lollipop v5.1 mobile were used for building this App.
 
-Presented at 30Hours 30Hacks Hackathon organized by Nasscom & GlobalLogic in February, 2016
-Original/Raw title: Easy Shop
+# Development
+Developed & Presented at "30 Hours 30 Hacks" Hackathon organized by Nasscom & GlobalLogic in February, 2016 {Delhi, India}
+Original/Alternative title: Easy Shop
